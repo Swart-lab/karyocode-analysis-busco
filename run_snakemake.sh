@@ -11,8 +11,8 @@ set -e
 #  * Conda environments will be placed in a subfolder `envs/`
 
 # PATHS
-SNAKEMAKE_ENV=
-WD=
+SNAKEMAKE_ENV=/ebio/abt2_projects/ag-swart-karyocode/envs/snakemake
+WD=/ebio/abt2_projects/ag-swart-karyocode/analysis/busco
 
 # activate snakemake conda environment
 source activate $SNAKEMAKE_ENV

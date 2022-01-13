@@ -2,16 +2,19 @@
 # include: "rules-A"
 # include: "rules-B"
 
+WD="/ebio/abt2_projects/ag-swart-karyocode/analysis/busco"
+
 rule all:
     input:
-        expand("{sample}.out", sample=config['samplenames'])
+        expand("busco_out/{lib}/short_summary.specific.alveolata_odb10.{lib}.txt", lib=config['proteins_shortlist'])
 
-rule dosomething:
+rule busco:
     input:
-        lambda wildcards: config['rawdata'][wildcards.sample]
+        lambda wildcards: config['proteins_shortlist'][wildcards.lib]
     output:
-        "{sample}.out"
-    # conda: "example.yml"
-    threads: 1
+        "busco_out/{lib}/short_summary.specific.alveolata_odb10.{lib}.txt"
+    conda: "envs/busco.yml"
+    log: "logs/busco.{lib}.log"
+    threads: 16
     shell:
-        "cat {input} > {output}"
+        "busco -m protein -i {input} -l alveolata_odb10 -f --cpu {threads} -o {wildcards.lib} --out_path busco_out &> {log};"
