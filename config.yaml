@@ -2,7 +2,11 @@
 proteins_shortlist:
   bjap_mm  : /ebio/abt2_projects/ag-swart-karyocode/nb/shortlist-seqs/transcript_shortlist_pep.bjap_mm.fasta
   bsp_mk   : /ebio/abt2_projects/ag-swart-karyocode/nb/shortlist-seqs/transcript_shortlist_pep.bsp_mk.fasta
+  cl10_yy  : /ebio/abt2_projects/ag-swart-karyocode/nb/shortlist-seqs/transcript_shortlist_pep.cl01_yy.fasta
   cmag_mm  : /ebio/abt2_projects/ag-swart-karyocode/nb/shortlist-seqs/transcript_shortlist_pep.cmag_mm.fasta
+  cvir_mm  : /ebio/abt2_projects/ag-swart-karyocode/nb/shortlist-seqs/transcript_shortlist_pep.cvir_mm.fasta
+  cvir_yy  : /ebio/abt2_projects/ag-swart-karyocode/nb/shortlist-seqs/transcript_shortlist_pep.cvir_yy.fasta
+  fsal_mm  : /ebio/abt2_projects/ag-swart-karyocode/nb/shortlist-seqs/transcript_shortlist_pep.fsal_mm.fasta
   gacu_yy  : /ebio/abt2_projects/ag-swart-karyocode/nb/shortlist-seqs/transcript_shortlist_pep.gacu_yy.fasta
   lstr2_yy : /ebio/abt2_projects/ag-swart-karyocode/nb/shortlist-seqs/transcript_shortlist_pep.lstr2_yy.fasta
   lstr_yy  : /ebio/abt2_projects/ag-swart-karyocode/nb/shortlist-seqs/transcript_shortlist_pep.lstr_yy.fasta
@@ -25,7 +29,7 @@ proteins_shortlist:
   ref_bsto : /ebio/abt2_projects/ag-swart-karyocode/analysis/busco/db/proteomes/Blepharisma_stoltei.2021.faa
   ref_evan : /ebio/abt2_projects/ag-swart-karyocode/analysis/busco/db/proteomes/Euplotes_vannus.2018-03.faa
   ref_imul : /ebio/abt2_projects/ag-swart-karyocode/analysis/busco/db/proteomes/Ichthyophthirius_multifiliis.img1_0407.faa
-  ref_lmag : /ebio/abt2_projects/ag-swart-karyocode/analysis/busco/db/proteomes/Loxodes_magnus.MAC_falcon.faa
+  # ref_lmag : /ebio/abt2_projects/ag-swart-karyocode/analysis/busco/db/proteomes/Loxodes_magnus.MAC_falcon.faa
   ref_otri : /ebio/abt2_projects/ag-swart-karyocode/analysis/busco/db/proteomes/Oxytricha_trifallax.2020.faa
   ref_pcau : /ebio/abt2_projects/ag-swart-karyocode/analysis/busco/db/proteomes/Paramecium_caudatum_43c3d.v2.faa
   ref_ptet : /ebio/abt2_projects/ag-swart-karyocode/analysis/busco/db/proteomes/Paramecium_tetraurelia_51.v2.faa
