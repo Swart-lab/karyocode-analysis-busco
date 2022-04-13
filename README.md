@@ -1,5 +1,3 @@
-Template workflow folder for Snakemake pipeline
+Workflow to find BUSCO markers in Karyocode transcriptomes
 
-After cloning this repository, you should change the name of the folder as
-appropriate, and update the remote URL of the repository to a new one for your
-project.
+See the [main project repo](https://github.com/Swart-lab/karyocode-workflow) for more information
