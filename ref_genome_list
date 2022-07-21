@@ -1,0 +1,17 @@
+Ciliate protein sequences for comparative analysis
+
+Blepharisma_stoltei.2021.faa	https://bleph.ciliate.org/common/downloads/bleph/Bsto_ATCC_protein.fasta
+Euplotes_vannus.2018-03.faa	http://evan.ciliate.org/system/downloads/Euplotes_vannus_Mar2018_proteins.fasta
+Ichthyophthirius_multifiliis.img1_0407.faa	http://ich.ciliate.org/system/downloads/img1_0407.aa.fsa
+Oxytricha_trifallax.2012-02.faa	https://oxy.ciliate.org/common/downloads/oxy/Oxytricha_trifallax_022112_aa.fasta
+Oxytricha_trifallax.2020.faa	https://oxy.ciliate.org/common/downloads/oxy/Oxy2020_protein.fasta
+Paramecium_caudatum_43c3d.v2.faa	https://paramecium.i2bc.paris-saclay.fr/files/Paramecium/caudatum/43c3d/annotations/caudatum_43c3d_assembly_v1/pcaudatum_43c3d_annotation_v2.0.protein.fa
+Paramecium_tetraurelia_51.v2.faa	https://paramecium.i2bc.paris-saclay.fr/files/Paramecium/tetraurelia/51/annotations/ptetraurelia_mac_51/ptetraurelia_mac_51_annotation_v2.0.protein.fa
+Perkinsus_marinus_ATCC50983.JCVI_PMG_1.faa	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/006/405/GCF_000006405.1_JCVI_PMG_1.0/GCF_000006405.1_JCVI_PMG_1.0_protein.faa.gz
+Pseudocohnilembus_persalinus.1_ASM144751v1.faa	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/447/515/GCA_001447515.1_ASM144751v1/GCA_001447515.1_ASM144751v1_protein.faa.gz
+Stentor_coeruleus.2017-11.faa	http://stentor.ciliate.org/system/downloads/S_coeruleus_Nov2017_proteins.fasta
+Stylonychia_lemnae.2017-11.faa	http://stylo.ciliate.org/system/downloads/stylo_protein.fa
+Tetrahymena_borealis.2012-10.faa	http://www.ciliate.org/system/downloads/T_borealis_oct2012_proteins.fasta
+Tetrahymena_elliotti.2012-10.faa	http://www.ciliate.org/system/downloads/T_elliotti_oct2012_proteins.fasta
+Tetrahymena_malaccensis.2012-10.faa	http://www.ciliate.org/system/downloads/T_malaccensis_oct2012_proteins.fasta
+Tetrahymena_thermophila.2020.faa	http://www.ciliate.org/system/downloads/tet-latest/4-Protein%20fasta.fasta
